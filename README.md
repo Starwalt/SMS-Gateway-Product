@@ -2,6 +2,18 @@
 
 SMS Products
 
+```
+
+With mobile phones becoming popular and Short Message Service (SMS) becoming the most widely used mobile service, 
+SMS text messaging is the perfect way to mobile enable enterprise information.
+
+Mobile enabling your enterprise data makes available information, from your enterprise database,
+on to your mobile phone using interactive SMS.
+
+Your enterprise information can now be accessible to your customers, as SMS,
+even when you are on the road or anywhere away from your desktop. 
+
+```
 
 ```
 
